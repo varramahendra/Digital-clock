@@ -1,0 +1,1 @@
+This application has an easy and simple design with Labels to show current date and time. Grab a cup of coffee, sit down and start using the Digital Clock. This Digital Clock is a Graphical user interface (GUI) application that shows current date and time to the user using labels. The clock updates the date and time automatically.
